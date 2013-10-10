@@ -35,8 +35,8 @@ the Ruby community.
 [RubyConf Australia][18]
 : The first Australian Ruby Conference was held in Melbourne in 2013,
   the second will be held in Sydney 2014. RubyConfAU welcomes Rubyists
-  from around the world to join in a celebration of the wonderful
-  Ruby community.
+  from around the world to join in a celebration of the Ruby language
+  and its wonderful community.
 
 [Open Source Developer Conference][5]
 : This is an annual open source development conference that is held each
