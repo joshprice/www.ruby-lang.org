@@ -32,11 +32,18 @@ the Ruby community.
   including Armin Roehrl and Michael Neumann, EuRuKo emerged as the
   second annual Ruby event, starting two years after RubyConf.
 
+[RubyConf Australia][18]
+: The first Australian Ruby Conference was held in Melbourne in 2013,
+  the second will be held in Sydney 2014. RubyConfAU welcomes Rubyists
+  from around the world to join in a celebration of the wonderful
+  Ruby community.
+
 [Open Source Developer Conference][5]
 : This is an annual open source development conference that is held each
   year in Australia. While not specifically a Ruby conference, each year
   we do get a number of Ruby papers and we are always interested in more
   Ruby content.
+
 
 ### Regional Ruby Conferences
 
@@ -91,4 +98,4 @@ O’Reilly), and Canada on Rails.
 [15]: http://madisonruby.org/
 [16]: http://steelcityruby.org/
 [17]: http://ruby.onales.com/
-
+[18]: http://rubyconf.org.au/
